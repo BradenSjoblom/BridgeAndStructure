@@ -1,0 +1,10 @@
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\bin\Debug\BridgeAndStructure.exe.config
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\bin\Debug\BridgeAndStructure.exe
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\bin\Debug\BridgeAndStructure.pdb
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\bin\Debug\BridgeAndStructure.xml
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.Form1.resources
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.Resources.resources
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.vbproj.GenerateResource.Cache
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.exe
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.xml
+H:\GitHub\BridgeAndStructure\BridgeAndStructure\obj\Debug\BridgeAndStructure.pdb
